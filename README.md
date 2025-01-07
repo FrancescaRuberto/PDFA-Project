@@ -6,3 +6,14 @@ This project analyses the age dynamics of the Irish population concentrating on 
 
 The rationale for undertaking this project is based on the recent realization of the significance of the demographic dynamics with respect to the issues of the day. Policy making, addressing social problems, as well as the health care, education, and infrastructure development sectors, all rely on demographic data. Therefore, by examining these trends, the goal of this project is to provide critical information that would be useful in promoting proactive planning.
 
+## Methodology 
+
+- **Exploratory Data Analysis**: 
+Populations were split into gender and age categories to see how equitable the distribution was.
+Calculated key metrics like mean age and standard deviation for the various groups.
+
+- **Projection Models**: 
+The linear regression model was leveraged to estimate 2025 and 2030-values for each age band in the population. 
+
+- **Visualization**: 
+Generated visual representations including bar charts and line charts which describe population distribution, gender share and the anticipated trends in population dynamics with changes.
