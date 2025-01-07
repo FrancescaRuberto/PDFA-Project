@@ -17,3 +17,15 @@ The linear regression model was leveraged to estimate 2025 and 2030-values for e
 
 - **Visualization**: 
 Generated visual representations including bar charts and line charts which describe population distribution, gender share and the anticipated trends in population dynamics with changes.
+
+## Key Findings
+
+- **Demographic Distribution**: The current structure of the population portrays a bulk of youth with a gradually decreasing base as the age increases, showing a decrease of numbers among the older section of the population.
+
+- **Gender Balance**: In older age groups, women greatly outnumber men due to higher life expectancy, while the number of males suffers significantly from greater declines as the age increases.
+
+- **Mean Age**: The economy is in transition as there is a gradual replacement of younger age groups by older ones among the population and in such circumstances the number or average age rate of increase will always be there.
+
+- **Standard Deviation: The pattern of age group for each year has remained without great fluctu**ations except for slight variations between the years analysed.
+
+- **Demographic Projection**: The trend of aging will continue for bigger share of older people in the population most likely the healthcare systems and sustainable growth of the economy will be challenged with this shift.
