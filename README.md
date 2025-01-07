@@ -29,3 +29,7 @@ Generated visual representations including bar charts and line charts which desc
 - **Standard Deviation: The pattern of age group for each year has remained without great fluctu**ations except for slight variations between the years analysed.
 
 - **Demographic Projection**: The trend of aging will continue for bigger share of older people in the population most likely the healthcare systems and sustainable growth of the economy will be challenged with this shift.
+
+## Acknowledgments
+
+This project relies on data provided by the [Central Statistics Office](https://data.cso.ie/). Their commitment to transparency and accessibility in statistical data collection was instrumental in enabling this analysis.
