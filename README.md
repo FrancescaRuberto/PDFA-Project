@@ -62,7 +62,7 @@ Yearly and Gender Trends:
 - 0-14 Trend: Scatter plots illustrate a steady decline over time in this group for both genders, pointing to demographic shifts.
 - Gender Stability: Most age groups show balanced gender distributions, with only minor deviations.
 
-Insights
+### Insights
 - Youth Bulk and Strategic Implications:
 The predominance of younger age groups highlights opportunities for policies targeting education, employment, and skill development.
 However, the declining 0-14 group suggests the need for family support policies to counteract falling birth rates.
