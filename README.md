@@ -73,7 +73,7 @@ The combination of bar charts and scatter plots effectively illustrates both the
 - Future Considerations:
 If the declining 0-14 trend persists, challenges related to a shrinking workforce and dependency ratios could emerge in the coming decades.
 
-### ## Resources 
+### Resources 
 - Analytics Vidhya. (2020, May 8). How to visualize your data in Python. Medium. [Retrieved here](https://medium.com/analytics-vidhya/how-to-visualize-your-data-in-python-a1dc46ad1f8d)
 
 - Dev.to. (n.d.). How to create an age distribution graph using Python, pandas, and seaborn. [Retrieved here](https://dev.to/shehanat/how-to-create-an-age-distribution-graph-using-python-pandas-and-seaborn-2o5n)
@@ -125,9 +125,7 @@ This section examines the Male-to-Female Ratio across various age groups in Irel
 
 The ratio is calculated as:
 
-$$
-\text{Male-to-Female Ratio} = \frac{\text{Number of Females}}{\text{Number of Males}}
-$$​
+![Male-to-female-ratio]("C:\Users\franc\OneDrive\Desktop\male-to-female-ratio.png")
  
 - If >1: More males than females.
 - If <1: More females than males.
