@@ -72,3 +72,41 @@ The reduction in older populations underlines potential healthcare challenges an
 The combination of bar charts and scatter plots effectively illustrates both the bulk of youth and the decreasing population base in older groups.
 - Future Considerations:
 If the declining 0-14 trend persists, challenges related to a shrinking workforce and dependency ratios could emerge in the coming decades.
+
+### ## Resources 
+- Analytics Vidhya. (2020, May 8). How to visualize your data in Python. Medium. [Retrieved here](https://medium.com/analytics-vidhya/how-to-visualize-your-data-in-python-a1dc46ad1f8d)
+
+- Dev.to. (n.d.). How to create an age distribution graph using Python, pandas, and seaborn. [Retrieved here](https://dev.to/shehanat/how-to-create-an-age-distribution-graph-using-python-pandas-and-seaborn-2o5n)
+
+- GeeksforGeeks. (n.d.). Create a stacked bar plot in Matplotlib. [Retrieved here](https://www.geeksforgeeks.org/create-a-stacked-bar-plot-in-matplotlib/)
+
+- GeeksforGeeks. (n.d.). Drawing scatter trend lines using Matplotlib. [Retrieved here](https://www.geeksforgeeks.org/drawing-scatter-trend-lines-using-matplotlib/)
+
+- GeeksforGeeks. (n.d.). enumerate() in Python. [Retrieved here](https://www.geeksforgeeks.org/enumerate-in-python/)
+
+- GeeksforGeeks. (n.d.). numpy.arrange() in Python. [Retrieved here](https://www.geeksforgeeks.org/numpy-arrange-in-python/)
+
+- Matplotlib Development Team. (n.d.). Subplots demo. [Retrieved here](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html)
+
+- Medium. (n.d.). How to visualize your data in Python. [Retrieved here](https://medium.com/analytics-vidhya/how-to-visualize-your-data-in-python-a1dc46ad1f8d)
+
+- numpy. (n.d.). numpy.arange. [Retrieved here](https://numpy.org/doc/2.1/reference/generated/numpy.arange.html)
+
+- Pandas Development Team. (n.d.). pandas.DataFrame.groupby. [Retrieved here](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html)
+
+- Pandas Development Team. (n.d.). pandas.Series.unique. [Retrieved here](https://pandas.pydata.org/docs/reference/api/pandas.Series.unique.html)
+
+- Pandas Development Team. (n.d.). Reshape table layout. [Retrieved here](https://pandas.pydata.org/docs/getting_started/intro_tutorials/07_reshape_table_layout.html)
+
+- Saturn Cloud. (n.d.). How to draw a scatter trend line on Matplotlib using Python pandas. [Retrieved here](https://saturncloud.io/blog/how-to-draw-a-scatter-trend-line-on-matplotlib-using-python-pandas/#:~:text=To%20add%20a%20trend%20line)
+
+- Seaborn Development Team. (n.d.). seaborn.regplot. [Retrieved here](https://seaborn.pydata.org/generated/seaborn.regplot.html)
+
+- Stack Overflow. (2016, July 1). How to plot age distribution with pandas? [Retrieved here](https://stackoverflow.com/questions/38146009/how-to-plot-age-distribution-with-pandas)
+
+- Stack Overflow. (2015, August 31). How to plot in multiple subplots? [Retrieved here](https://stackoverflow.com/questions/31726643/how-to-plot-in-multiple-subplots)
+
+- Stack Overflow. (n.d.). Pandas percentage of total with groupby. [Retrieved here](https://stackoverflow.com/questions/23377108/pandas-percentage-of-total-with-groupby)
+
+- Stack Overflow. (n.d.). Stacked plot to represent genders for an age group from CSV containing identifiers. [Retrieved here](https://stackoverflow.com/questions/41143707/stacked-plot-to-represent-genders-for-an-age-group-from-csv-containing-identifie)
+- Statology. (n.d.). Matplotlib trendline. [Retrieved here](https://www.statology.org/matplotlib-trendline/)
