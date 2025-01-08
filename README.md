@@ -110,3 +110,28 @@ If the declining 0-14 trend persists, challenges related to a shrinking workforc
 
 - Stack Overflow. (n.d.). Stacked plot to represent genders for an age group from CSV containing identifiers. [Retrieved here](https://stackoverflow.com/questions/41143707/stacked-plot-to-represent-genders-for-an-age-group-from-csv-containing-identifie)
 - Statology. (n.d.). Matplotlib trendline. [Retrieved here](https://www.statology.org/matplotlib-trendline/)
+
+## Gender Balance Analysis
+
+### General Concept of Male-to-Female Ratio
+Male-to-female ratio is one of the important index of demographic researches, which can be used to measure the gender balance. It is defined as a ratio of the number of males to the number of females in a chosen category. This ratio is applicable to many different data subsets such as age (categories), geographical regions or time (period).
+
+Purpose: To pinpoint gender imbalances in particular demographics.
+
+Applications: Healthcare planning, social policy formulation, and analyzing societal trends.
+
+### Introduction
+This section examines the Male-to-Female Ratio across various age groups in Ireland between 2020 and 2024. he Male-to-Female Ratio is a key demographic indicator that highlights the gender distribution within populations. It helps pinpoint specific groups or time periods where one gender is more prevalent, shedding light on social and biological trends.
+
+The ratio is calculated as:
+
+$$
+\text{Male-to-Female Ratio} = \frac{\text{Number of Females}}{\text{Number of Males}}
+$$​
+ 
+- If >1: More males than females.
+- If <1: More females than males.
+- If =1: Equal numbers of males and females.
+
+
+Understanding these patterns helps policymakers and researchers address gender-specific needs and plan resources effectively.
