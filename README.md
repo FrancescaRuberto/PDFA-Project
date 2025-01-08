@@ -40,3 +40,15 @@ This project relies on data provided by the [Central Statistics Office](https://
 The analysis of age group distribution provides a comprehensive understanding of the population structure by categorization individuals into predefined age brackets. This segmentation is essential for identifying demographic trends, supporting targeted strategies, and aiding in resources allocation. 
 
 Additionally, a detailed breakdown by year and gender allows for the identification of temportal trends and patterns. Scatter plots are employed to visually explore relationships and trends in the dataset. 
+
+### Methodology 
+Age Group Distribution Analysis:
+- The dataset was grouped by age groups (e.g. 0-14, 15-24, 25-34, etc.).
+- Total population counts were calculated for each gorup, further disaggregated by gender. 
+- Stacked bar charts were generated to display the gender proportions within each age group. 
+
+Detailed Breakdown by Year and Gender:
+- The population was further analyzed by year to observe trends in age and gender distribution over time. 
+- Scatter plots were used to visualize changes, plotting population counts for each gender-age group-year combination. 
+- Python libraries (Pandas, Matplotlib, Seaborn) facilitated the data aggregation and visualization. 
+
