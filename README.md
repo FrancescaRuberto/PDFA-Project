@@ -52,3 +52,23 @@ Detailed Breakdown by Year and Gender:
 - Scatter plots were used to visualize changes, plotting population counts for each gender-age group-year combination. 
 - Python libraries (Pandas, Matplotlib, Seaborn) facilitated the data aggregation and visualization. 
 
+### Findings
+Population Structure:
+- Bulk of youth: The largest population share resides in younger age groups, particularly 15-24 and 25-34.
+- Declining 0-14 group: A clear downward trend is observed in the youngest age group, reflecting reduced birth rates or family size over the analyzed years.
+- Decreasing older population: The 60+ group shows a significant drop, consistent with aging trends and potentially lower life expectancy.
+
+Yearly and Gender Trends:
+- 0-14 Trend: Scatter plots illustrate a steady decline over time in this group for both genders, pointing to demographic shifts.
+- Gender Stability: Most age groups show balanced gender distributions, with only minor deviations.
+
+Insights
+- Youth Bulk and Strategic Implications:
+The predominance of younger age groups highlights opportunities for policies targeting education, employment, and skill development.
+However, the declining 0-14 group suggests the need for family support policies to counteract falling birth rates.
+- Aging Trends:
+The reduction in older populations underlines potential healthcare challenges and the need for investments in elder care.
+- Visualizing Temporal Trends:
+The combination of bar charts and scatter plots effectively illustrates both the bulk of youth and the decreasing population base in older groups.
+- Future Considerations:
+If the declining 0-14 trend persists, challenges related to a shrinking workforce and dependency ratios could emerge in the coming decades.
