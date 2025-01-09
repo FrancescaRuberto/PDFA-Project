@@ -151,3 +151,20 @@ The age group male to female ratio was depicted using a horizontal bar chart in 
 
 For data analysis and visualization, Python libraries namely Pandas, Matplotlib and Seaborn, were employed.
 
+### Findings
+
+- Youth Population (0-14 years):
+
+For younger age groups, such as 0-14 years, the Male-to-Female Ratio is slightly above 1. For example:
+In 2020, the ratio for this age group was 1.05, indicating 5% more males than females.
+Similar patterns were observed in 2021 and 2022.
+
+- Middle Age Groups (15-64 years):
+
+Ratios are closer to 1 in middle age groups, suggesting a more balanced gender distribution. Minor variations are observed across years.
+
+- Older Population (70+ years):
+
+The ratio declines significantly for older age groups, reflecting a higher proportion of females due to longer female life expectancy. For example:
+In 2022, the ratio was 0.92 for the 75-79 age group, indicating 8% fewer males than females.
+
