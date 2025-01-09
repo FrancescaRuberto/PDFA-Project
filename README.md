@@ -133,3 +133,21 @@ The ratio is calculated as:
 
 
 Understanding these patterns helps policymakers and researchers address gender-specific needs and plan resources effectively.
+
+### Methodology
+
+**Data Preparation**:
+The dataset's "Age Group" column contained duplicate items, like "Year," which were removed along with any extraneous information in the brackets to standardise the age brackets.
+
+They were divided into groups based on age, sex, and year, and the total population was calculated.
+
+**Ratio Calculation**:
+Males were displayed on one side of the pivot table, while female population counts for each year were plotted on the other side to help differentiate the male population from the female population.
+
+The percentage of the male population compared to the female population was used to calculate the male-to-female ratio.
+
+**Visualization**:
+The age group male to female ratio was depicted using a horizontal bar chart in which age group rank was ordered from youngest to oldest for easy shifting of h group.
+
+For data analysis and visualization, Python libraries namely Pandas, Matplotlib and Seaborn, were employed.
+
