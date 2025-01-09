@@ -153,37 +153,23 @@ For data analysis and visualization, Python libraries namely Pandas, Matplotlib 
 
 ### Findings
 
-- Youth Population (0-14 years):
-
-For younger age groups, such as 0-14 years, the Male-to-Female Ratio is slightly above 1. For example:
+- **Youth Population (0-14 years)**: For younger age groups, such as 0-14 years, the Male-to-Female Ratio is slightly above 1. For example:
 In 2020, the ratio for this age group was 1.05, indicating 5% more males than females.
 Similar patterns were observed in 2021 and 2022.
 
-- Middle Age Groups (15-64 years):
+- **Middle Age Groups (15-64 years)**: Ratios are closer to 1 in middle age groups, suggesting a more balanced gender distribution. Minor variations are observed across years.
 
-Ratios are closer to 1 in middle age groups, suggesting a more balanced gender distribution. Minor variations are observed across years.
-
-- Older Population (70+ years):
-
-The ratio declines significantly for older age groups, reflecting a higher proportion of females due to longer female life expectancy. For example:
+- **Older Population (70+ years)**: The ratio declines significantly for older age groups, reflecting a higher proportion of females due to longer female life expectancy. For example:
 In 2022, the ratio was 0.92 for the 75-79 age group, indicating 8% fewer males than females.
 
 ### Insights
 
-- **Observations on Gender Disparities Across Age Groups**:
-
-For younger population groups a slight male majority is detcted, which aligns with biological trends at birth (slightly more males are born than females).
+- **Observations on Gender Disparities Across Age Groups**: For younger population groups a slight male majority is detcted, which aligns with biological trends at birth (slightly more males are born than females).
 While older populations reflect the higher female life expectancy, leading to a female-dominated demographic in older age brackets.
 
-- **Patterns over time**:
+- **Patterns over time**: The Male-to-Female Ratio remains consistent across the analyzed years, showing no major fluctuations or unexpected changes.
 
-The Male-to-Female Ratio remains consistent across the analyzed years, showing no major fluctuations or unexpected changes.
-
-- **Policy Implications**:
-
-The analysis shows a clear impact on social policies. Especially in the healthcare sector, the higher proportion of females in older age groups indicates a need for elderly care services tailored to women.
+- **Policy Implications**: The analysis shows a clear impact on social policies. Especially in the healthcare sector, the higher proportion of females in older age groups indicates a need for elderly care services tailored to women.
 While, concerning youth development, the slight male dominance in younger populations suggests opportunities to analyze gender-specific needs in education and development.
 
-- **Visualization Benefits**:
-
-The utilization of horizontal bar charts helps in identifying and underlining gender disparities at a glance, as the scale clearly highlights differences in the ratio for each age group.
+- **Visualization Benefits**: The utilization of horizontal bar charts helps in identifying and underlining gender disparities at a glance, as the scale clearly highlights differences in the ratio for each age group.
