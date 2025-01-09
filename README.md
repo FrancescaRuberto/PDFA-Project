@@ -167,3 +167,31 @@ While older populations reflect the higher female life expectancy, leading to a 
 While, concerning youth development, the slight male dominance in younger populations suggests opportunities to analyze gender-specific needs in education and development.
 
 - **Visualization Benefits**: The utilization of horizontal bar charts helps in identifying and underlining gender disparities at a glance, as the scale clearly highlights differences in the ratio for each age group.
+
+### Resources
+
+- GeeksforGeeks. (n.d.). Pandas GroupBy Unstack. [Retrieved here](https://www.geeksforgeeks.org/pandas-groupby-unstack/)
+
+- Inferential Thinking. (n.d.). Example: Sex Ratios. [Retrieved here](https://inferentialthinking.com/chapters/06/4/Example_Sex_Ratios.h)
+
+- Kaggle. (n.d.). Male vs Female Height Analysis Using Python. [Retrieved here](https://www.kaggle.com/code/amandabalay/male-vs-female-height-analysis-using-python)
+
+- MorphMarket Community. (n.d.). Male to Female Ratio - Ball Python. [Retrieved here](https://community.morphmarket.com/t/male-to-female-ratio-ball-python/42802)
+
+- Pandas Documentation. (n.d.). pandas.DataFrame.pivot. [Retrieved here](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot.html)
+
+- Pandas Documentation. (n.d.). pandas.DataFrame.reset_index. [Retrieved here](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reset_index.html)
+
+- Pandas Documentation. (n.d.). Calculate Statistics. [Retrieved here](https://pandas.pydata.org/docs/dev/getting_started/intro_tutorials/06_calculate_statistics.html)
+
+- Stack Overflow. (2012, October 25). How to add a new column to an existing DataFrame. [Retrieved here](https://stackoverflow.com/questions/12555323/how-to-add-a-new-column-to-an-existing-dataframe)
+
+- Stack Overflow. (2014, May 7). How to Reset Index in a Pandas DataFrame. [Retrieved here](https://stackoverflow.com/questions/20490274/how-to-reset-index-in-a-pandas-dataframe)
+
+- Stack Overflow. (2017, June 5). How to pivot a DataFrame in Pandas. [Retrieved here](https://stackoverflow.com/questions/28337117/how-to-pivot-a-dataframe-in-pandas)
+
+- Stack Overflow. (2020, July 16). What is the male-to-female ratio for each occupation using pandas? [Retrieved here](https://stackoverflow.com/questions/67833139/what-is-the-male-to-female-ratio-for-each-occupation-using-pandas)
+
+- Stack Overflow. (2015, May 15). Merge Few Pivot Tables in Pandas. [Retrieved here](https://stackoverflow.com/questions/32092169/merge-few-pivot-tables-in-pandas)
+
+- W3Schools. (n.d.). Pandas DataFrame reset_index() Method. [Retrieved here](https://www.w3schools.com/python/pandas/ref_df_reset_index.asp)
