@@ -125,7 +125,7 @@ This section examines the Male-to-Female Ratio across various age groups in Irel
 
 The ratio is calculated as:
 
-![Male-to-female-ratio](""https://drive.google.com/file/d/1SEIslpbomaBwI3pkGx3hBV0c5ZZzYyGn/view?usp=sharing)
+[![male-to-female-ratio.png](https://i.postimg.cc/h45n5JNs/male-to-female-ratio.png)](https://postimg.cc/YjYT4SrL)
  
 - If >1: More males than females.
 - If <1: More females than males.
