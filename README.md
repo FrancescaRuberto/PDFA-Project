@@ -168,3 +168,22 @@ Ratios are closer to 1 in middle age groups, suggesting a more balanced gender d
 The ratio declines significantly for older age groups, reflecting a higher proportion of females due to longer female life expectancy. For example:
 In 2022, the ratio was 0.92 for the 75-79 age group, indicating 8% fewer males than females.
 
+### Insights
+
+- **Observations on Gender Disparities Across Age Groups**:
+
+For younger population groups a slight male majority is detcted, which aligns with biological trends at birth (slightly more males are born than females).
+While older populations reflect the higher female life expectancy, leading to a female-dominated demographic in older age brackets.
+
+- **Patterns over time**:
+
+The Male-to-Female Ratio remains consistent across the analyzed years, showing no major fluctuations or unexpected changes.
+
+- **Policy Implications**:
+
+The analysis shows a clear impact on social policies. Especially in the healthcare sector, the higher proportion of females in older age groups indicates a need for elderly care services tailored to women.
+While, concerning youth development, the slight male dominance in younger populations suggests opportunities to analyze gender-specific needs in education and development.
+
+- **Visualization Benefits**:
+
+The utilization of horizontal bar charts helps in identifying and underlining gender disparities at a glance, as the scale clearly highlights differences in the ratio for each age group.
