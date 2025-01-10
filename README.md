@@ -221,3 +221,7 @@ This method allows us to get a more accurate measure of the mean age by accounti
 
 The results were then visualized in a line chart, where the x-axis represents the year (2020-2024), and the y-axis represents the weighted mean age. This visualization helps track how the mean age evolves over time and highlights any trends or shifts in the population's age structure.
 
+### Findings
+
+The results reveal a gradual increase in the weighted mean age of Ireland’s population over the five-year period. As we analyzed the data, it became evident that certain age groups, especially the older ones, are contributing more to the population's aging trend. The weighted mean age, which considers both the central age values and the population sizes of each group, shows a steady rise, indicating that the population is indeed becoming older.
+
