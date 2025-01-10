@@ -231,4 +231,16 @@ The findings suggest a significant shift in the age structure of the population,
 
 Additionally, the data may serve as a foundation for further demographic studies, helping to track how factors like immigration, birth rates, and life expectancy influence the age profile of the population over the next decades.
 
+### Resources
+
+- Demographic Research. (n.d.). Population Projections for Ireland. [Retrieved here](https://www.demographic-research.org/articles/volume/48/13)
+- Eurostat. (n.d.). Population structure and ageing. [Retrieved here](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Population_structure_and_ageing)
+- GeeksforGeeks. (n.d.). Applying Lambda Functions to Pandas DataFrame. [Retrieved here](https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/)
+- GeeksforGeeks. (n.d.). How to Calculate Weighted Average in Pandas. [Retrieved here](https://www.geeksforgeeks.org/how-to-calculate-weighted-average-in-pandas/)
+- Investopedia. (n.d.). Weighted Average Definition. [Retrieved here](https://www.investopedia.com/terms/w/weightedaverage.asp)
+- Pandas Documentation. (n.d.). Getting Started with Pandas - 6. Calculating Statistics. [Retrieved here](https://pandas.pydata.org/pandas-docs/version/1.4.3/getting_started/intro_tutorials/06_calculate_statistics.html)
+- Saturn Cloud. (n.d.). How to Calculate Weighted Average Using Pandas DataFrame. [Retrieved here](https://saturncloud.io/blog/how-to-calculate-weighted-average-using-pandas-dataframe/)
+- Stack Overflow. (n.d.). Calculate weighted average using a pandas dataframe. [Retrieved here](https://stackoverflow.com/questions/26205922/calculate-weighted-average-using-a-pandas-dataframe)
+- Stack Overflow. (n.d.). Calculating Weighted Average Using Grouped agg in Pandas. [Retrieved here](https://stackoverflow.com/questions/61827881/calculating-weighted-average-using-grouped-agg-in-pandas)
+- Stack Overflow. (n.d.). Groupby Weighted Average and Sum in Pandas DataFrame. [Retrieved here](https://stackoverflow.com/questions/31521027/groupby-weighted-average-and-sum-in-pandas-dataframe)
 
