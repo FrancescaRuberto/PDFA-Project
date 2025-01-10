@@ -195,3 +195,20 @@ While, concerning youth development, the slight male dominance in younger popula
 - Stack Overflow. (2015, May 15). Merge Few Pivot Tables in Pandas. [Retrieved here](https://stackoverflow.com/questions/32092169/merge-few-pivot-tables-in-pandas)
 
 - W3Schools. (n.d.). Pandas DataFrame reset_index() Method. [Retrieved here](https://www.w3schools.com/python/pandas/ref_df_reset_index.asp)
+
+## Analysis of the Evolution of Mean Age (Aging Trend)
+
+### Introduction
+This section aims to explore the evolution of the mean age of Ireland’s population from 2020 to 2024. Understanding changes in the age structure of a population is crucial for policymakers, especially when planning for healthcare, social services, and workforce strategies. By calculating the weighted mean age of various age groups, we can gain insights into the aging trends and demographic shifts in Ireland over this period. This analysis helps provide a more accurate representation of how the population's average age has changed in response to various factors such as fertility rates, life expectancy, and migration.
+
+### Methodology
+To calculate the weighted mean age of Ireland’s population, we started by assigning a central value to each age group, which represents the midpoint of the age range. For example:
+
+0-4 years: 2 years
+5-9 years: 7 years
+65-69 years: 67 years
+85+ years: 87 years (the central value for this age group)
+Once the central age values were assigned to each age group, we calculated the weighted mean age for each year using the following formula:
+
+[![mean-age-formula.png](https://i.postimg.cc/LXzwwbZw/mean-age-formula.png)](https://postimg.cc/vgZ06Xht)
+
