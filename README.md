@@ -213,3 +213,11 @@ Once the central age values were assigned to each age group, we calculated the w
 
 [![mean-age-formula.png](https://i.postimg.cc/LXzwwbZw/mean-age-formula.png)](https://postimg.cc/vgZ06Xht)
 
+Where:
+
+Population of Age Group is the population count for a specific age group in a given year.
+Central Age of Age Group is the representative central value (midpoint) for that age group.
+This method allows us to get a more accurate measure of the mean age by accounting for the size of each age group. The central age values were mapped to the age groups, and the weighted mean age was computed by multiplying these central values by the corresponding population counts for each age group. The sum of these weighted values was then divided by the total population of all age groups for that year.
+
+The results were then visualized in a line chart, where the x-axis represents the year (2020-2024), and the y-axis represents the weighted mean age. This visualization helps track how the mean age evolves over time and highlights any trends or shifts in the population's age structure.
+
