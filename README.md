@@ -244,3 +244,11 @@ Additionally, the data may serve as a foundation for further demographic studies
 - Stack Overflow. (n.d.). Calculating Weighted Average Using Grouped agg in Pandas. [Retrieved here](https://stackoverflow.com/questions/61827881/calculating-weighted-average-using-grouped-agg-in-pandas)
 - Stack Overflow. (n.d.). Groupby Weighted Average and Sum in Pandas DataFrame. [Retrieved here](https://stackoverflow.com/questions/31521027/groupby-weighted-average-and-sum-in-pandas-dataframe)
 
+
+## Standard Deviation
+
+### Introduction
+
+The standard deviation is a statistical measure used to quantify the amount of variation or dispersion in a set of data points. It is a vital metric to understand how spread out the values in a data set are relative to the mean (average) of the data. In the context of population analysis, the standard deviation helps to determine how much individual age groups deviate from the average age of the population.
+
+By calculating the standard deviation for the age group centers, we gain insight into how diverse the age distribution is. If the standard deviation is high, it suggests a larger diversity in age groups. Conversely, a low standard deviation indicates that the age distribution is more concentrated around the average age.
