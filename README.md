@@ -223,5 +223,12 @@ The results were then visualized in a line chart, where the x-axis represents th
 
 ### Findings
 
-The results reveal a gradual increase in the weighted mean age of Ireland’s population over the five-year period. As we analyzed the data, it became evident that certain age groups, especially the older ones, are contributing more to the population's aging trend. The weighted mean age, which considers both the central age values and the population sizes of each group, shows a steady rise, indicating that the population is indeed becoming older.
+The results reveal a gradual increase in the weighted mean age of Ireland’s population over the five-year period. As I analyzed the data, it became evident that certain age groups, especially the older ones, are contributing more to the population's aging trend. The weighted mean age, which considers both the central age values and the population sizes of each group, shows a steady rise, indicating that the population is indeed becoming older.
+
+### Insights
+
+The findings suggest a significant shift in the age structure of the population, with potential implications for public policy. An aging population could lead to increased demand for healthcare services, retirement benefits, and social care programs. It could also have an impact on the labor market, with a potentially shrinking workforce in the coming years. This trend highlights the importance of preparing for the challenges posed by an older demographic and adapting policies to support an aging population, such as increasing pension provision and improving healthcare accessibility.
+
+Additionally, the data may serve as a foundation for further demographic studies, helping to track how factors like immigration, birth rates, and life expectancy influence the age profile of the population over the next decades.
+
 
