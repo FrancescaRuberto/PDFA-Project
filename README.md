@@ -204,10 +204,11 @@ This section aims to explore the evolution of the mean age of Ireland’s popula
 ### Methodology
 To calculate the weighted mean age of Ireland’s population, we started by assigning a central value to each age group, which represents the midpoint of the age range. For example:
 
-0-4 years: 2 years
-5-9 years: 7 years
-65-69 years: 67 years
-85+ years: 87 years (the central value for this age group)
+- 0-4 years: 2 years
+- 5-9 years: 7 years
+- 65-69 years: 67 years
+- 85+ years: 87 years (the central value for this age group)
+
 Once the central age values were assigned to each age group, we calculated the weighted mean age for each year using the following formula:
 
 [![mean-age-formula.png](https://i.postimg.cc/LXzwwbZw/mean-age-formula.png)](https://postimg.cc/vgZ06Xht)
