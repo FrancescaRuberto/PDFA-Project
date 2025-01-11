@@ -252,3 +252,29 @@ Additionally, the data may serve as a foundation for further demographic studies
 The standard deviation is a statistical measure used to quantify the amount of variation or dispersion in a set of data points. It is a vital metric to understand how spread out the values in a data set are relative to the mean (average) of the data. In the context of population analysis, the standard deviation helps to determine how much individual age groups deviate from the average age of the population.
 
 By calculating the standard deviation for the age group centers, we gain insight into how diverse the age distribution is. If the standard deviation is high, it suggests a larger diversity in age groups. Conversely, a low standard deviation indicates that the age distribution is more concentrated around the average age.
+
+### Methodology
+
+Age Group Centers: The central value of each age group, or the age group center, is calculated as the midpoint of the age range for each group. For example, for the group "0-4 years," the center would be 2, while for the group "85+ years," the center would be considered as 87 (or the average age of this group).
+
+Standard Deviation Calculation:
+
+The standard deviation is calculated using NumPy’s np.std() function, which computes the square root of the variance.
+
+
+The formula for standard deviation is:
+
+[![sd-formula.png](https://i.postimg.cc/pXXHMPKc/sd-formula.png)](https://postimg.cc/K4VVnSqt)
+
+
+- \( x_i \) represents each individual age group center.
+- \( \mu \) is the mean (average) of the age group centers.
+- \( n \) is the number of age groups.
+
+
+Calculation:
+The standard deviation of the age group centers is calculated from the following values (the centers of the age groups):
+
+[7, 12, 17, 22, 27, 32, 37, 42, 47, 52, 57, 62, 67, 72, 77, 82, 87]
+
+These values represent the midpoint of each age group, ranging from the youngest group (0-4 years) to the oldest group (85+ years). We apply the standard deviation formula using these values to calculate the degree of variation.
