@@ -317,3 +317,20 @@ A very high standard deviation might suggest the presence of outliers or extreme
 - Stack Overflow. (n.d.). Calculate weighted average using pandas dataframe. [Retrieved here](https://stackoverflow.com/questions/26205922/calculate-weighted-average-using-a-pandas-dataframe)
 - W3Schools. (n.d.). Python lists. [Retrieved here](https://www.w3schools.com/python/python_lists.asp)
 - W3Schools. (n.d.). Standard deviation in machine learning. [Retrieved here](https://www.w3schools.com/python/python_ml_standard_deviation.asp)
+
+## Demographic Projection Analysis
+
+### Introduction
+This analysis's objective is to forecast Ireland's population increase for 2025 and 2030 using historical data for various age groups. Our goal is to forecast the future evolution of the population in each age group by utilising linear regression. Planning and policy-making, especially in fields like healthcare, education, and resource allocation, can benefit greatly from this knowledge.
+
+### Methodology
+
+- **Data Collection**: The dataset utilised in this research includes population data for a number of years and several age groups.
+
+- **Data preprocessing**: The dataset is cleaned to make sure it has the required columns, including VALUE (which represents the population), Year, and Age Group. To use as prediction categories, we separate distinct age groups from the dataset.
+
+- **Linear regression Model**: Using the sklearn library, a linear regression model is applied for every age group. For each age group, population levels are forecast throughout time (for 2025 and 2030, especially). The model uses population values as the dependent variable and historical years as independent variables.
+
+- **Projection**: To forecast the population for 2025 and 2030, the linear regression model is developed using the data for every age group. For every age group, the future projections are saved.
+
+- **Visualisation**: A line chart displaying both historical data and future projections is used to illustrate the predictions for each age group. This aids in the visual comprehension of demographic patterns and the anticipated future evolution of each age group.
