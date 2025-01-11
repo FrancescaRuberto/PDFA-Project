@@ -348,3 +348,32 @@ This analysis's objective is to forecast Ireland's population increase for 2025 
 - **Impact of Ageing Population**: Forecasts suggest that certain older age groups may experience more significant population growth as Ireland's population ages. This tendency could have a big effect on the social services and healthcare industries.
 
 - **Anticipating Future Requirements**: Officials can allocate resources more efficiently if they are aware of the expected growth in each age group. For example, a younger population may require more investment in education, whereas an ageing population may require more retirement savings and healthcare services.
+
+### Resources
+- ActiveState. (n.d.). How to run linear regressions in Python scikit-learn. [Retrieved here](https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/)
+- DataCamp. (n.d.). Scikit-learn cheat sheet: Python machine learning. [Retrieved here](https://www.datacamp.com/cheat-sheet/scikit-learn-cheat-sheet-python-machine-learning?utm_source=google&utm_medium=paid_search&utm_campaignid=21057859163&utm_adgroupid=157296750217&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=692112540943&utm_targetid=aud-2191467490030%3Adsa-2264919291829&utm_loc_interest_ms=&utm_loc_physical_ms=2032&utm_content=DSA%7Eblog%7EJulia&utm_campaign=230119_1-sea%7Edsa%7Etofu_2-b2c_3-es-lang-en_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&gad_source=1&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIZKnbiclDBPomHBvB3nJs-mqtgnSn5X2BBt7_NJpkfjIFLgbLMVEOgaAi75EALw_wcB&dc_referrer=https%3A%2F%2Fwww.google.com%2F)
+- DZone. (n.d.). Python and the science of sales forecasting. [Retrieved here](https://dzone.com/articles/python-and-science-of-sales-forecasting)
+- Finxter. (n.d.). 5 best ways to convert a Python NumPy array from row to column. [Retrieved here](https://blog.finxter.com/5-best-ways-to-convert-a-python-numpy-array-from-row-to-column/)
+- GeeksforGeeks. (n.d.). Matplotlib.pyplot.legend() in Python. [Retrieved here](https://www.geeksforgeeks.org/matplotlib-pyplot-legend-in-python/)
+- GeeksforGeeks. (n.d.). ML - Linear Regression. [Retrieved here](https://www.geeksforgeeks.org/ml-linear-regression/)
+- GeeksforGeeks. (n.d.). Python linear regression using sklearn. [Retrieved here](https://www.geeksforgeeks.org/python-linear-regression-using-sklearn/)
+- KDnuggets. (n.d.). Linear regression from scratch with NumPy. [Retrieved here](https://www.kdnuggets.com/linear-regression-from-scratch-with-numpy)
+- Machine Learning Mastery. (n.d.). Linear regression for machine learning. [Retrieved here](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+- Matplotlib. (n.d.). matplotlib.pyplot.tight_layout. [Retrieved here](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.tight_layout.html)
+- Medium. (n.d.). Building a linear regression model with scikit-learn: Part 1. [Retrieved here](https://medium.com/@neslihannavsar/building-a-linear-regression-model-with-scikit-learn-part-1-eed4c04f53f9)
+- Medium. (n.d.). Simple linear regression in Python. [Retrieved here](https://medium.com/@shuv.sdr/simple-linear-regression-in-python-a0069b325bf8)
+- Numpy.org. (n.d.). numpy.reshape. [Retrieved here](https://numpy.org/doc/stable/reference/generated/numpy.reshape.html)
+- Paolo Pozzolo. (n.d.). Retta di regressione. [Retrieved here](https://paolapozzolo.it/retta-regressione/)
+- Programiz. (n.d.). Python dictionary. [Retrieved here](https://www.programiz.com/python-programming/dictionary)
+- Real Python. (n.d.). Linear regression in Python. [Retrieved here](https://realpython.com/linear-regression-in-python/)
+- Real Python. (n.d.). Python dicts. [Retrieved here](https://realpython.com/python-dicts/)
+- Saturn Cloud. (n.d.). Linear regression with pandas DataFrame. [Retrieved here](https://saturncloud.io/blog/linear-regression-with-pandas-dataframe/)
+- Scikit-learn. (n.d.). sklearn.linear_model.LinearRegression. [Retrieved here](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+- Scikit-learn. (n.d.). sklearn.linear_model.LinearRegression (version 1.5). [Retrieved here](https://scikit-learn.org/1.5/modules/generated/sklearn.linear_model.LinearRegression.html)
+- Scikit-learn. (n.d.). sklearn.linear_model.LinearRegression (dev version). [Retrieved here](https://scikit-learn.org/dev/modules/generated/sklearn.linear_model.LinearRegression.html)
+- Simplilearn. (n.d.). Sklearn linear regression with examples. [Retrieved here](https://www.simplilearn.com/tutorials/scikit-learn-tutorial/sklearn-linear-regression-with-examples)
+- Stack Overflow. (n.d.). Adding a Matplotlib legend. [Retrieved here](https://stackoverflow.com/questions/19125722/adding-a-matplotlib-legend)
+- Stack Overflow. (n.d.). How to use Matplotlib tight_layout with figure. [Retrieved here](https://stackoverflow.com/questions/9603230/how-to-use-matplotlib-tight-layout-with-figure)
+- Stack Overflow. (n.d.). Linear regression in scikit-learn. [Retrieved here](https://stackoverflow.com/questions/53765848/linear-regression-in-scikit-learn)
+- Stack Overflow. (n.d.). sklearn linear regression: How do I predict population to a future year that I have not trained for? [Retrieved here](https://stackoverflow.com/questions/73708436/sklearn-linear-regression-how-do-i-predict-population-to-a-future-year-that-i)
+- W3Schools. (n.d.). Python linear regression. [Retrieved here](https://www.w3schools.com/python/python_ml_linear_regression.asp)
