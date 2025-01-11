@@ -377,3 +377,18 @@ This analysis's objective is to forecast Ireland's population increase for 2025 
 - Stack Overflow. (n.d.). Linear regression in scikit-learn. [Retrieved here](https://stackoverflow.com/questions/53765848/linear-regression-in-scikit-learn)
 - Stack Overflow. (n.d.). sklearn linear regression: How do I predict population to a future year that I have not trained for? [Retrieved here](https://stackoverflow.com/questions/73708436/sklearn-linear-regression-how-do-i-predict-population-to-a-future-year-that-i)
 - W3Schools. (n.d.). Python linear regression. [Retrieved here](https://www.w3schools.com/python/python_ml_linear_regression.asp)
+
+## Conclusion
+The demographic analysis provided present information on Ireland's changing population composition. Among the main conclusions are:
+
+**Youth-Centric Opportunities**: Focused policies in education, workforce development, and skill upgrading are made possible by the prevalence of younger age groups, such as those between the ages of 15 and 34. The decrease in the 0–14 age range, however, suggests possible difficulties in retaining a healthy future labour force and achieving desirable dependence ratios.
+
+**Concerns about the Ageing Population**: The steady rise in the average age and the number of people in the 60+ age range highlights the necessity of long-term policy changes, healthcare reforms, and elder care services in order to support an ageing society.
+
+**Gender Parity**: The examination of the Male-to-Female Ratio shows that the gender distribution is balanced in the majority of age groups, with older demographics generally having a higher proportion of women. The significance of gender-sensitive policy is indicated by these findings, particularly in the areas of healthcare and senior assistance.
+
+**Dispersion of Age Groups**: The computed standard deviation demonstrates the wide range of ages, which is indicative of an ageing population. In order to meet the requirements of all age groups, this variety necessitates inclusive and flexible approaches.
+
+**Future Projections**: According to the estimate, there will be ongoing demographic changes in 2025 and 2030, especially in older age groups. These estimates can be used by policymakers to properly plan resource allocation and address upcoming socioeconomic difficulties.
+
+In conclusion, there are major changes occurring in the population dynamics of Ireland. To address the effects of these changes, data-driven, strategic policymaking will be essential. The assessments not only point out the problems of the present but also open the door for proactive measures to maintain economic expansion, guarantee social welfare, and get ready for future demographic changes.
