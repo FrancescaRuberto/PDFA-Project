@@ -305,7 +305,7 @@ A very high standard deviation might suggest the presence of outliers or extreme
 - Investopedia. (n.d.). Weighted average. [Retrieved here](https://www.investopedia.com/terms/w/weightedaverage.asp)
 - Laerd Statistics. (n.d.). Measures of spread: Standard deviation. [Retrieved here](https://statistics.laerd.com/statistical-guides/measures-of-spread-standard-deviation.php)
 - Matplotlib. (n.d.). Matplotlib trendline. [Retrieved here](https://www.statology.org/matplotlib-trendline/)
-- NLM National Library of Medicine. (n.d.). Standard deviation. [Retrieved here](https://www.nlm.nih.gov/oet/ed/stats/02-900.html#:~:text=A%20standard%20deviation%20(or%20%CF%83,data%20are%20more%20spread%20out.)
+- NLM National Library of Medicine. (n.d.). Standard deviation. [Retrieved here](https://www.nlm.nih.gov/oet/ed/stats/02-900.html)
 - NumPy Documentation. (n.d.). NumPy Standard Deviation Function. [Retrieved here](https://sparkbyexamples.com/python/python-numpy-standard-deviation-function/#:~:text=In%20NumPy%2C%20you%20can%20compute,by%20specifying%20the%20axis%20param.)
 - Python Docs. (n.d.). Python list(). [Retrieved here](https://docs.python.org/3/library/functions.html#list)
 - Pandas Documentation. (2021). Getting started with pandas. [Retrieved here](https://pandas.pydata.org/pandas-docs/version/1.4.3/getting_started/intro_tutorials/06_calculate_statistics.html)
