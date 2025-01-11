@@ -284,16 +284,16 @@ Mean Calculation: The mean of the age group centers will be the central point ar
 Standard Deviation: The calculated standard deviation reflects the amount of variation present. Given that the age group centers span a wide range, the standard deviation will be moderately high, indicating considerable dispersion in the population's age structure.
 
 ### Insights
-Dispersion of Data:
 
+- **Dispersion of Data**: 
 A higher standard deviation indicates that the age groups are spread out over a wider range, showing greater diversity in the population's age distribution.
 A low standard deviation would indicate that most age groups are closely grouped around the mean age, suggesting a less diverse population.
-Demographic Diversity:
 
+- **Demographic Diversity**:
 The relatively high standard deviation in this case suggests that there is a significant diversity in age groups, with a notable presence of older age groups (85+ years), which contributes to the variation in the population.
-Comparison Over Time or Categories:
 
+- **Comparison Over Time or Categories**:
 By examining the standard deviation over time (e.g., comparing different years or periods), we can track how the age distribution of the population has shifted. For example, an increase in the standard deviation could indicate a growing diversity in age groups, possibly due to an aging population.
-Anomalies or Outliers:
 
+- **Anomalies or Outliers**:
 A very high standard deviation might suggest the presence of outliers or extreme age groups (such as a very high concentration of elderly individuals). These outliers might need further investigation to understand their impact on the overall population distribution.
