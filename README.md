@@ -297,3 +297,23 @@ By examining the standard deviation over time (e.g., comparing different years o
 
 - **Anomalies or Outliers**:
 A very high standard deviation might suggest the presence of outliers or extreme age groups (such as a very high concentration of elderly individuals). These outliers might need further investigation to understand their impact on the overall population distribution.
+
+### Resources
+- Demographic Research. (n.d.). Projections of population structure and aging. [Retrieved here](https://www.demographic-research.org/articles/volume/48/13)
+- GeeksforGeeks. (n.d.). How to calculate weighted average in pandas. [Retrieved here](https://www.geeksforgeeks.org/how-to-calculate-weighted-average-in-pandas/)
+- GeeksforGeeks. (n.d.). Applying lambda functions to pandas dataframe. [Retrieved here](https://www.geeksforgeeks.org/applying-lambda-functions-to-pandas-dataframe/)
+- Investopedia. (n.d.). Weighted average. [Retrieved here](https://www.investopedia.com/terms/w/weightedaverage.asp)
+- Laerd Statistics. (n.d.). Measures of spread: Standard deviation. [Retrieved here](https://statistics.laerd.com/statistical-guides/measures-of-spread-standard-deviation.php)
+- Matplotlib. (n.d.). Matplotlib trendline. [Retrieved here](https://www.statology.org/matplotlib-trendline/)
+- NLM National Library of Medicine. (n.d.). Standard deviation. [Retrieved here](https://www.nlm.nih.gov/oet/ed/stats/02-900.html#:~:text=A%20standard%20deviation%20(or%20%CF%83,data%20are%20more%20spread%20out.)
+- NumPy Documentation. (n.d.). NumPy Standard Deviation Function. [Retrieved here](https://sparkbyexamples.com/python/python-numpy-standard-deviation-function/#:~:text=In%20NumPy%2C%20you%20can%20compute,by%20specifying%20the%20axis%20param.)
+- Python Docs. (n.d.). Python list(). [Retrieved here](https://docs.python.org/3/library/functions.html#list)
+- Pandas Documentation. (2021). Getting started with pandas. [Retrieved here](https://pandas.pydata.org/pandas-docs/version/1.4.3/getting_started/intro_tutorials/06_calculate_statistics.html)
+- Pandas. (n.d.). How to calculate weighted average using pandas dataframe. [Retrieved here](https://stackoverflow.com/questions/26205922/calculate-weighted-average-using-a-pandas-dataframe)
+- Pandas. (n.d.). GroupBy weighted average and sum in pandas dataframe. [Retrieved here](https://stackoverflow.com/questions/31521027/groupby-weighted-average-and-sum-in-pandas-dataframe)
+- Pandas. (n.d.). Calculating weighted average using grouped agg in pandas. [Retrieved here](https://stackoverflow.com/questions/61827881/calculating-weighted-average-using-grouped-agg-in-pandas)
+- Python Docs. (n.d.). List comprehension in Python. [Retrieved here](https://realpython.com/list-comprehension-python/)
+- Science Direct. (n.d.). Population standard deviation. [Retrieved here](https://www.sciencedirect.com/topics/mathematics/population-standard-deviation)
+- Stack Overflow. (n.d.). Calculate weighted average using pandas dataframe. [Retrieved here](https://stackoverflow.com/questions/26205922/calculate-weighted-average-using-a-pandas-dataframe)
+- W3Schools. (n.d.). Python lists. [Retrieved here](https://www.w3schools.com/python/python_lists.asp)
+- W3Schools. (n.d.). Standard deviation in machine learning. [Retrieved here](https://www.w3schools.com/python/python_ml_standard_deviation.asp)
