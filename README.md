@@ -325,12 +325,20 @@ This analysis's objective is to forecast Ireland's population increase for 2025 
 
 ### Methodology
 
-- **Data Collection**: The dataset utilised in this research includes population data for a number of years and several age groups.
+- **Data Collection**: The dataset used in this study include population data for multiple age groups and years.
 
-- **Data preprocessing**: The dataset is cleaned to make sure it has the required columns, including VALUE (which represents the population), Year, and Age Group. To use as prediction categories, we separate distinct age groups from the dataset.
+- **Data preprocessing**: The dataset is cleaned to ensure that it has the necessary columns, such as Year, Age Group, and VALUE (which represents the population), Year, and Age Group. To use as prediction categories, we separate distinct age groups from the dataset.
 
-- **Linear regression Model**: Using the sklearn library, a linear regression model is applied for every age group. For each age group, population levels are forecast throughout time (for 2025 and 2030, especially). The model uses population values as the dependent variable and historical years as independent variables.
+- **Linear regression Model**:  A linear regression model is conducted for each age group using the sklearn library. Population levels for each age group are projected over time, particularly for 2025 and 2030. The model uses historical years as independent variables and population values as the dependent variable.
 
-- **Projection**: To forecast the population for 2025 and 2030, the linear regression model is developed using the data for every age group. For every age group, the future projections are saved.
+- **Projection**: The linear regression model is created utilising the data for each age group in order to predict the population for 2025 and 2030. Future forecasts are saved for each age group.
 
-- **Visualisation**: A line chart displaying both historical data and future projections is used to illustrate the predictions for each age group. This aids in the visual comprehension of demographic patterns and the anticipated future evolution of each age group.
+- **Visualisation**: The predictions for each age group are shown in a line chart that shows both historical data and future projections. This facilitates the visual understanding of demographic trends and the expected future development of every age group.
+
+### Findings
+
+- **Population estimates for 2025 and 2030**: Each age group's numbers were projected for 2025 and 2030. These forecasts allow us to understand how the distribution of the population will vary over time.
+
+- **Some Age Groups Show Steady Linear Growth**: Over the coming years, it is anticipated that the population of certain age groups will continue to grow steadily.
+
+- **Age Group Variation**: The estimates differ according to age groups, which reflects the various trends of population growth or decrease in various demographic groups.
