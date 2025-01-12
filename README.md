@@ -26,7 +26,7 @@ Generated visual representations including bar charts and line charts which desc
 
 - **Mean Age**: The economy is in transition as there is a gradual replacement of younger age groups by older ones among the population and in such circumstances the number or average age rate of increase will always be there.
 
-- **Standard Deviation: The pattern of age group for each year has remained without great fluctu**ations except for slight variations between the years analysed.
+- **Standard Deviation**: The pattern of age group for each year has remained without great fluctuations except for slight variations between the years analysed.
 
 - **Demographic Projection**: The trend of aging will continue for bigger share of older people in the population most likely the healthcare systems and sustainable growth of the economy will be challenged with this shift.
 
@@ -54,24 +54,24 @@ Detailed Breakdown by Year and Gender:
 
 ### Findings
 Population Structure:
-- Bulk of youth: The largest population share resides in younger age groups, particularly 15-24 and 25-34.
-- Declining 0-14 group: A clear downward trend is observed in the youngest age group, reflecting reduced birth rates or family size over the analyzed years.
-- Decreasing older population: The 60+ group shows a significant drop, consistent with aging trends and potentially lower life expectancy.
+- Bulk of youth: the largest population share resides in younger age groups, particularly 15-24 and 25-34.
+- Declining 0-14 group: a clear downward trend is observed in the youngest age group, reflecting reduced birth rates or family size over the analyzed years.
+- Decreasing older population: the 60+ group shows a significant drop, consistent with aging trends and potentially lower life expectancy.
 
 Yearly and Gender Trends:
-- 0-14 Trend: Scatter plots illustrate a steady decline over time in this group for both genders, pointing to demographic shifts.
-- Gender Stability: Most age groups show balanced gender distributions, with only minor deviations.
+- 0-14 Trend: scatter plots illustrate a steady decline over time in this group for both genders, pointing to demographic shifts.
+- Gender Stability: most age groups show balanced gender distributions, with only minor deviations.
 
 ### Insights
 - Youth Bulk and Strategic Implications:
-The predominance of younger age groups highlights opportunities for policies targeting education, employment, and skill development.
+the predominance of younger age groups highlights opportunities for policies targeting education, employment, and skill development.
 However, the declining 0-14 group suggests the need for family support policies to counteract falling birth rates.
 - Aging Trends:
-The reduction in older populations underlines potential healthcare challenges and the need for investments in elder care.
+the reduction in older populations underlines potential healthcare challenges and the need for investments in elder care.
 - Visualizing Temporal Trends:
-The combination of bar charts and scatter plots effectively illustrates both the bulk of youth and the decreasing population base in older groups.
+the combination of bar charts and scatter plots effectively illustrates both the bulk of youth and the decreasing population base in older groups.
 - Future Considerations:
-If the declining 0-14 trend persists, challenges related to a shrinking workforce and dependency ratios could emerge in the coming decades.
+if the declining 0-14 trend persists, challenges related to a shrinking workforce and dependency ratios could emerge in the coming decades.
 
 ### Resources 
 - Analytics Vidhya. (2020, May 8). How to visualize your data in Python. Medium. [Retrieved here](https://medium.com/analytics-vidhya/how-to-visualize-your-data-in-python-a1dc46ad1f8d)
@@ -114,14 +114,14 @@ If the declining 0-14 trend persists, challenges related to a shrinking workforc
 ## Gender Balance Analysis
 
 ### General Concept of Male-to-Female Ratio
-Male-to-female ratio is one of the important index of demographic researches, which can be used to measure the gender balance. It is defined as a ratio of the number of males to the number of females in a chosen category. This ratio is applicable to many different data subsets such as age (categories), geographical regions or time (period).
+Male-to-female ratio is one of the important index of demographic researches, which can be used to measure the gender balance. It is defined as a ratio of the number of males to the number of females in a chosen category. This ratio is applicable to many different data subsets such as age, geographical regions or time.
 
-Purpose: To pinpoint gender imbalances in particular demographics.
+Purpose: to pinpoint gender imbalances in particular demographics.
 
-Applications: Healthcare planning, social policy formulation, and analyzing societal trends.
+Applications: healthcare planning, social policy formulation, and analyzing societal trends.
 
 ### Introduction
-This section examines the Male-to-Female Ratio across various age groups in Ireland between 2020 and 2024. he Male-to-Female Ratio is a key demographic indicator that highlights the gender distribution within populations. It helps pinpoint specific groups or time periods where one gender is more prevalent, shedding light on social and biological trends.
+This section examines the Male-to-Female Ratio across various age groups in Ireland between 2020 and 2024. The Male-to-Female Ratio is a key demographic indicator that highlights the gender distribution within populations. It helps pinpoint specific groups or time periods where one gender is more prevalent, shedding light on social and biological trends.
 
 The ratio is calculated as:
 
@@ -137,36 +137,32 @@ Understanding these patterns helps policymakers and researchers address gender-s
 ### Methodology
 
 - **Data Preparation**:
-The dataset's "Age Group" column contained duplicate items, like "Year," which were removed along with any extraneous information in the brackets to standardise the age brackets. They were divided into groups based on age, sex, and year, and the total population was calculated.
+the dataset's "Age Group" column contained duplicate items, like "Year," which were removed along with any extraneous information in the brackets to standardise the age brackets. They were divided into groups based on age, sex, and year, and the total population was calculated.
 
 - **Ratio Calculation**:
-Males were displayed on one side of the pivot table, while female population counts for each year were plotted on the other side to help differentiate the male population from the female population. The percentage of the male population compared to the female population was used to calculate the male-to-female ratio.
+male and female population were were displayed on a pivot table to have a better representation of the population. The percentage of the male population compared to the female population was used to calculate the male-to-female ratio.
 
 - **Visualization**:
-The age group male to female ratio was depicted using a horizontal bar chart in which age group rank was ordered from youngest to oldest for easy shifting of h group. For data analysis and visualization, Python libraries namely Pandas, Matplotlib and Seaborn, were employed.
+the male-to-female ratio across different age groups was illustrated using a horizontal bar chart, with the age groups arranged sequentially from youngest to oldest for ease of comparison and analysis. For data analysis and visualization, Python libraries namely Pandas, Matplotlib and Seaborn, were employed.
 
 ### Findings
 
-- **Youth Population (0-14 years)**: For younger age groups, such as 0-14 years, the Male-to-Female Ratio is slightly above 1. For example:
-In 2020, the ratio for this age group was 1.05, indicating 5% more males than females.
-Similar patterns were observed in 2021 and 2022.
+- **Youth Population (0-14 years)**: for younger age groups, such as 0-14 years, the Male-to-Female Ratio is slightly above 1. For example: in 2020, the ratio for this age group was 1.05, indicating 5% more males than females. Similar patterns were observed in 2021 and 2022.
 
-- **Middle Age Groups (15-64 years)**: Ratios are closer to 1 in middle age groups, suggesting a more balanced gender distribution. Minor variations are observed across years.
+- **Middle Age Groups (15-64 years)**: ratios are closer to 1 in middle age groups, suggesting a more balanced gender distribution. Minor variations are observed across years.
 
-- **Older Population (70+ years)**: The ratio declines significantly for older age groups, reflecting a higher proportion of females due to longer female life expectancy. For example:
-In 2022, the ratio was 0.92 for the 75-79 age group, indicating 8% fewer males than females.
+- **Older Population (70+ years)**: the ratio declines significantly for older age groups, reflecting a higher proportion of females due to longer female life expectancy. For example: in 2022, the ratio was 0.92 for the 75-79 age group, indicating 8% fewer males than females.
 
 ### Insights
 
-- **Observations on Gender Disparities Across Age Groups**: For younger population groups a slight male majority is detcted, which aligns with biological trends at birth (slightly more males are born than females).
-While older populations reflect the higher female life expectancy, leading to a female-dominated demographic in older age brackets.
+- **Observations on Gender Disparities Across Age Groups**: for younger population groups a slight male majority is detcted, which aligns with biological trends at birth (slightly more males are born than females). While older populations reflect the higher female life expectancy, leading to a female-dominated demographic in older age brackets.
 
-- **Patterns over time**: The Male-to-Female Ratio remains consistent across the analyzed years, showing no major fluctuations or unexpected changes.
+- **Patterns over time**: the Male-to-Female Ratio remains consistent across the analyzed years, showing no major fluctuations or unexpected changes.
 
-- **Policy Implications**: The analysis shows a clear impact on social policies. Especially in the healthcare sector, the higher proportion of females in older age groups indicates a need for elderly care services tailored to women.
+- **Policy Implications**: the analysis shows a clear impact on social policies. Especially in the healthcare sector, the higher proportion of females in older age groups indicates a need for elderly care services tailored to women.
 While, concerning youth development, the slight male dominance in younger populations suggests opportunities to analyze gender-specific needs in education and development.
 
-- **Visualization Benefits**: The utilization of horizontal bar charts helps in identifying and underlining gender disparities at a glance, as the scale clearly highlights differences in the ratio for each age group.
+- **Visualization Benefits**: the utilization of horizontal bar charts helps in identifying and underlining gender disparities at a glance, as the scale clearly highlights differences in the ratio for each age group.
 
 ### Resources
 
@@ -255,7 +251,7 @@ By calculating the standard deviation for the age group centers, we gain insight
 
 ### Methodology
 
-Age Group Centers: The central value of each age group, or the age group center, is calculated as the midpoint of the age range for each group. For example, for the group "0-4 years," the center would be 2, while for the group "85+ years," the center would be considered as 87 (or the average age of this group).
+Age Group Centers: the central value of each age group, or the age group center, is calculated as the midpoint of the age range for each group. For example, for the group "0-4 years," the center would be 2, while for the group "85+ years," the center would be considered as 87 (or the average age of this group).
 
 Standard Deviation Calculation:
 
@@ -280,8 +276,8 @@ The standard deviation of the age group centers is calculated from the following
 These values represent the midpoint of each age group, ranging from the youngest group (0-4 years) to the oldest group (85+ years). We apply the standard deviation formula using these values to calculate the degree of variation.
 
 ### Findings
-Mean Calculation: The mean of the age group centers will be the central point around which the age groups are distributed. The range of the centers is from 7 to 87, indicating a broad spread across age groups.
-Standard Deviation: The calculated standard deviation reflects the amount of variation present. Given that the age group centers span a wide range, the standard deviation will be moderately high, indicating considerable dispersion in the population's age structure.
+Mean Calculation: the mean of the age group centers will be the central point around which the age groups are distributed. The range of the centers is from 7 to 87, indicating a broad spread across age groups.
+Standard Deviation: the calculated standard deviation reflects the amount of variation present. Given that the age group centers span a wide range, the standard deviation will be moderately high, indicating considerable dispersion in the population's age structure.
 
 ### Insights
 
@@ -325,29 +321,29 @@ This analysis's objective is to forecast Ireland's population increase for 2025 
 
 ### Methodology
 
-- **Data Collection**: The dataset used in this study include population data for multiple age groups and years.
+- **Data Collection**: the dataset used in this study include population data for multiple age groups and years.
 
-- **Data preprocessing**: The dataset is cleaned to ensure that it has the necessary columns, such as Year, Age Group, and VALUE (which represents the population), Year, and Age Group. To use as prediction categories, we separate distinct age groups from the dataset.
+- **Data preprocessing**: the dataset is cleaned to ensure that it has the necessary columns, such as Year, Age Group, and VALUE (which represents the population), Year, and Age Group. To use as prediction categories, we separate distinct age groups from the dataset.
 
-- **Linear regression Model**:  A linear regression model is conducted for each age group using the sklearn library. Population levels for each age group are projected over time, particularly for 2025 and 2030. The model uses historical years as independent variables and population values as the dependent variable.
+- **Linear regression Model**:  a linear regression model is conducted for each age group using the sklearn library. Population levels for each age group are projected over time, particularly for 2025 and 2030. The model uses historical years as independent variables and population values as the dependent variable.
 
-- **Projection**: The linear regression model is created utilising the data for each age group in order to predict the population for 2025 and 2030. Future forecasts are saved for each age group.
+- **Projection**: the linear regression model is created utilising the data for each age group in order to predict the population for 2025 and 2030. Future forecasts are saved for each age group.
 
-- **Visualisation**: The predictions for each age group are shown in a line chart that shows both historical data and future projections. This facilitates the visual understanding of demographic trends and the expected future development of every age group.
+- **Visualisation**: the predictions for each age group are shown in a line chart that shows both historical data and future projections. This facilitates the visual understanding of demographic trends and the expected future development of every age group.
 
 ### Findings
 
-- **Population estimates for 2025 and 2030**: Each age group's numbers were projected for 2025 and 2030. These forecasts allow us to understand how the distribution of the population will vary over time.
+- **Population estimates for 2025 and 2030**: each age group's numbers were projected for 2025 and 2030. These forecasts allow us to understand how the distribution of the population will vary over time.
 
-- **Some Age Groups Show Steady Linear Growth**: Over the coming years, it is anticipated that the population of certain age groups will continue to grow steadily.
+- **Some Age Groups Show Steady Linear Growth**: over the coming years, it is anticipated that the population of certain age groups will continue to grow steadily.
 
-- **Age Group Variation**: The estimates differ according to age groups, which reflects the various trends of population growth or decrease in various demographic groups.
+- **Age Group Variation**: the estimates differ according to age groups, which reflects the various trends of population growth or decrease in various demographic groups.
 
 ### Insights
 
-- **Impact of Ageing Population**: Forecasts suggest that certain older age groups may experience more significant population growth as Ireland's population ages. This tendency could have a big effect on the social services and healthcare industries.
+- **Impact of Ageing Population**: forecasts suggest that certain older age groups may experience more significant population growth as Ireland's population ages. This tendency could have a big effect on the social services and healthcare industries.
 
-- **Anticipating Future Requirements**: Officials can allocate resources more efficiently if they are aware of the expected growth in each age group. For example, a younger population may require more investment in education, whereas an ageing population may require more retirement savings and healthcare services.
+- **Anticipating Future Requirements**: officials can allocate resources more efficiently if they are aware of the expected growth in each age group. For example, a younger population may require more investment in education, whereas an ageing population may require more retirement savings and healthcare services.
 
 ### Resources
 - ActiveState. (n.d.). How to run linear regressions in Python scikit-learn. [Retrieved here](https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/)
@@ -381,14 +377,14 @@ This analysis's objective is to forecast Ireland's population increase for 2025 
 ## Conclusion
 The demographic analysis provided present information on Ireland's changing population composition. Among the main conclusions are:
 
-**Youth-Centric Opportunities**: Focused policies in education, workforce development, and skill upgrading are made possible by the prevalence of younger age groups, such as those between the ages of 15 and 34. The decrease in the 0–14 age range, however, suggests possible difficulties in retaining a healthy future labour force and achieving desirable dependence ratios.
+**Youth-Centric Opportunities**: focused policies in education, workforce development, and skill upgrading are made possible by the prevalence of younger age groups, such as those between the ages of 15 and 34. The decrease in the 0–14 age range, however, suggests possible difficulties in retaining a healthy future labour force and achieving desirable dependence ratios.
 
-**Concerns about the Ageing Population**: The steady rise in the average age and the number of people in the 60+ age range highlights the necessity of long-term policy changes, healthcare reforms, and elder care services in order to support an ageing society.
+**Concerns about the Ageing Population**: the steady rise in the average age and the number of people in the 60+ age range highlights the necessity of long-term policy changes, healthcare reforms, and elder care services in order to support an ageing society.
 
-**Gender Parity**: The examination of the Male-to-Female Ratio shows that the gender distribution is balanced in the majority of age groups, with older demographics generally having a higher proportion of women. The significance of gender-sensitive policy is indicated by these findings, particularly in the areas of healthcare and senior assistance.
+**Gender Parity**: the examination of the Male-to-Female Ratio shows that the gender distribution is balanced in the majority of age groups, with older demographics generally having a higher proportion of women. The significance of gender-sensitive policy is indicated by these findings, particularly in the areas of healthcare and senior assistance.
 
-**Dispersion of Age Groups**: The computed standard deviation demonstrates the wide range of ages, which is indicative of an ageing population. In order to meet the requirements of all age groups, this variety necessitates inclusive and flexible approaches.
+**Dispersion of Age Groups**: the computed standard deviation demonstrates the wide range of ages, which is indicative of an ageing population. In order to meet the requirements of all age groups, this variety necessitates inclusive and flexible approaches.
 
-**Future Projections**: According to the estimate, there will be ongoing demographic changes in 2025 and 2030, especially in older age groups. These estimates can be used by policymakers to properly plan resource allocation and address upcoming socioeconomic difficulties.
+**Future Projections**: according to the estimate, there will be ongoing demographic changes in 2025 and 2030, especially in older age groups. These estimates can be used by policymakers to properly plan resource allocation and address upcoming socioeconomic difficulties.
 
 In conclusion, there are major changes occurring in the population dynamics of Ireland. To address the effects of these changes, data-driven, strategic policymaking will be essential. The assessments not only point out the problems of the present but also open the door for proactive measures to maintain economic expansion, guarantee social welfare, and get ready for future demographic changes.
